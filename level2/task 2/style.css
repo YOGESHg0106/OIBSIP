@@ -1,0 +1,29 @@
+body {  
+    background-color: rgb(46, 139, 87, 0.25);  
+    box-shadow: 20px 20px 20px 20px #96c996;   
+    margin: 2%;
+}  
+#title {
+    font-size: 400%;
+    width: 60vmax;
+    text-shadow: 5px 5px 10px rgb(231, 94, 94); 
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+  #image1 {
+    max-width: fit-content;
+    height: auto;
+    display: block;
+  }
+  .content{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    background-color: rgba(103, 205, 206, 0.25);  
+    box-shadow: 20px 20px 20px 20px #96c996;
+    
+  }
